@@ -58,7 +58,7 @@ QR code --> scan page (served by n8n) --> webhook (POST) --> n8n workflow
 
 - Replaced the manual daily sign-in check with an automated process.
 - Used daily by **40+ people** at my workplace, with the workplace's approval.
-- Time saved per day: **[Used daily by 40+ people. Logged 2,000+ sign-ins since launch. Saves roughly 20 minutes of manual checking per day.]**
+- Time saved per day: **Used daily by 40+ people. Logged 2,000+ sign-ins since launch. Saves roughly 20 minutes of manual checking per day.**
 
 ## Lessons learned
 
